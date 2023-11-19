@@ -9,4 +9,6 @@ Contrarily, if they are far from each other, long range animation is starting + 
 
 The default is the long range animation for the objects
 
+API Level 26 worked for me, I'm sorry (Android 8.0 Oreo)
+
 !!IMPORTANT!!   If the user touches the screen or presses E on the keyboard(currently commented out) , the robot fires a projectile. If the projectile hits the deathsphere 3 times, the deathsphere is destroyed. Have fun and enjoy !! :)
